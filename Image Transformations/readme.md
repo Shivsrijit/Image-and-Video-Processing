@@ -10,4 +10,7 @@ This assignment includes the following components:
 - Intensity level slicing with and without background  
 - Decomposition of images into 8 bit-planes  
 - Image reconstruction after bit-plane decomposition and Mean Squared Error (MSE) calculation  
-- Observations and inferences based on the results  
+- Observations and inferences based on the results
+
+###### To view and edit on Kaggle  
+[Open the notebook on Kaggle](https://www.kaggle.com/code/shivsrijitverma/imagetransformations)
