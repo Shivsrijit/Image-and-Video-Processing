@@ -72,3 +72,5 @@ For each experiment, results were visualized using **Matplotlib**, including:
 - Filtered images
 - Sharpened outputs
 
+###### To view and edit on Kaggle  
+[Open the notebook on Kaggle](https://www.kaggle.com/code/shivsrijitverma/frequencydomainfiltering)
