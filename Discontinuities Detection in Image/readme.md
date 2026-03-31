@@ -59,8 +59,6 @@
 - Grayscale conversion
 - Gaussian blurring / smoothing
 
-###### To view and edit on Kaggle  
-[Open the notebook on Kaggle](https://www.kaggle.com/code/shivsrijitverma/discontinuities-detction-in-images)
 ### Thresholding
 - Global thresholding
 - Local (adaptive) thresholding
@@ -69,4 +67,7 @@
 - Absolute value vs clamping:
   - Negative values → set to zero (clamping)
   - Or use absolute magnitude
+
+###### To view and edit on Kaggle  
+[Open the notebook on Kaggle](https://www.kaggle.com/code/shivsrijitverma/discontinuities-detction-in-images)
 
